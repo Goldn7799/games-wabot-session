@@ -1,3 +1,4 @@
+console.log('headler')
 import { smsg } from './lib/simple.js'
 import { plugins } from './lib/plugins.js'
 import { format } from 'util'

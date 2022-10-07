@@ -69,4 +69,5 @@ handler.help = ['ping', 'speed']
 handler.tags = ['info', 'tools']
 
 handler.command = /^(ping|speed|info)$/i
+
 export default handler

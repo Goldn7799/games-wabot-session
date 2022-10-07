@@ -1,5 +1,5 @@
 // TODO: reduce global variabel usage
-
+console.log('main')
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 process.on('uncaughtException', console.error)
 
